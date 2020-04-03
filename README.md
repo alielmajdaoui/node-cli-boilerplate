@@ -2,7 +2,7 @@
 
 A simple Node CLI Boilerplate for rapid Node CLI projects development.
 
-It uses **[Flow](https://flow.org/)** for type checking, **[ESLint](https://eslint.org/)** to find and fix problems in your and **[Prettier](https://prettier.io/)** for code formatting.
+It uses **[Flow](https://flow.org/)** for type checking, **[ESLint](https://eslint.org/)** to find and fix problems in your code and **[Prettier](https://prettier.io/)** for code formatting.
 
 ## Installation
 
@@ -22,7 +22,7 @@ npm install
 
 ### Usage
 
-Inside your project, run:
+Inside your project directory, run:
 
 ```bash
 npm run dev
